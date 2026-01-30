@@ -1,1 +1,15 @@
 # API-INTEGRATION
+
+COMPANY:-CODTECH IT SOLUTIONS 
+
+NAME:-SAMARTH MAHESH VITE
+
+INTERN ID:- CTIS2068
+
+DOMAIN :-FULL STACK DEVELOPMENT
+
+DURATIONS :-4 WEEKS 
+
+MENTOR:-NEELA SANTOSH
+
+<img width="926" height="1002" alt="Image" src="https://github.com/user-attachments/assets/b689ec3c-b152-46b5-8db9-92571de05210" />
