@@ -1,0 +1,53 @@
+body{
+    font-family: Arial,  sans-serif;
+    background: linear-gradient(to right);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200vh;
+    margin: 0;
+}
+.card{
+    background:rgb(47, 255, 206);
+    padding: 30px;
+    border-radius: 15px;
+    width: 350px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+h1{
+    color: black;
+    margin-bottom: 20px;
+}
+input{
+    width: 90%;
+    padding: 10px;
+    margin-bottom:  10px;
+    border-radius: 6px;
+    border: 1px solid;
+    font-size: 16px;
+}
+button{
+    background: fixed;
+    color: rgb(15, 29, 136);
+    border: 0;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 25px;
+}
+button:hover {
+    background-color: hotpink;
+}
+
+.weather {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333333;
+}
+
+@media (max-width: 400px) {
+    .card {
+        width: 95%;
+    }
+}
